@@ -1,0 +1,16 @@
+# privateservers, tunnelbear (AS51852)
+Order Deny,Allow
+Deny from 2a02:29b8::/32
+Deny from 31.7.56.0/21
+Deny from 31.44.189.0/24
+Deny from 46.19.136.0/21
+Deny from 46.102.152.0/24
+Deny from 81.17.16.0/20
+Deny from 141.255.160.0/21
+Deny from 176.223.111.0/24
+Deny from 176.223.112.0/24
+Deny from 176.223.113.0/24
+Deny from 179.43.128.0/18
+Deny from 185.12.44.0/22
+Deny from 185.165.31.0/24
+Deny from 190.211.252.0/24

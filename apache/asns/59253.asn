@@ -1,0 +1,32 @@
+# mullvad, tunnelbear (AS59253)
+Order Deny,Allow
+Deny from 2a00:9d20:53::/48
+Deny from 2a00:9d20:5353::/48
+Deny from 2a02:2ca0:3a::/48
+Deny from 2001:df1:800::/48
+Deny from 2402:5980::/40
+Deny from 43.246.113.0/24
+Deny from 43.249.38.0/23
+Deny from 43.249.38.0/24
+Deny from 43.249.39.0/24
+Deny from 89.255.254.0/24
+Deny from 89.255.255.0/24
+Deny from 103.35.56.0/22
+Deny from 103.35.182.0/23
+Deny from 103.47.145.0/24
+Deny from 103.47.155.0/24
+Deny from 103.55.8.0/24
+Deny from 103.57.72.0/24
+Deny from 103.198.77.0/24
+Deny from 103.208.85.0/24
+Deny from 103.225.64.0/23
+Deny from 103.236.148.0/24
+Deny from 103.254.152.0/22
+Deny from 103.254.152.0/23
+Deny from 103.254.154.0/23
+Deny from 209.58.160.0/20
+Deny from 209.58.160.0/21
+Deny from 209.58.168.0/21
+Deny from 209.58.176.0/21
+Deny from 209.58.176.0/22
+Deny from 209.58.180.0/22

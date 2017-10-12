@@ -1,0 +1,6 @@
+# nordvpn (AS44133)
+Order Deny,Allow
+Deny from 2a00:63c0::/29
+Deny from 37.252.184.0/21
+Deny from 93.189.24.0/21
+Deny from 185.119.116.0/22

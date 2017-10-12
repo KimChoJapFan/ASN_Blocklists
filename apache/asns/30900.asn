@@ -1,0 +1,10 @@
+# privateservers, tunnelbear (AS30900)
+Order Deny,Allow
+Deny from 149.86.64.0/21
+Deny from 185.24.232.0/22
+Deny from 185.104.216.0/22
+Deny from 185.108.128.0/24
+Deny from 185.108.129.0/24
+Deny from 185.108.130.0/24
+Deny from 185.176.128.0/22
+Deny from 217.115.112.0/20

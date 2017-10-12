@@ -1,0 +1,5 @@
+# purevpn (AS59564)
+Order Deny,Allow
+Deny from 46.243.142.0/24
+Deny from 188.72.101.0/24
+Deny from 195.211.152.0/22

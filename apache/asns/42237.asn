@@ -1,0 +1,8 @@
+# tunnelbear (AS42237)
+Order Deny,Allow
+Deny from 2a0b:c040::/32
+Deny from 91.236.116.0/24
+Deny from 185.142.237.0/24
+Deny from 185.217.0.0/23
+Deny from 193.105.134.0/24
+Deny from 198.105.121.0/24

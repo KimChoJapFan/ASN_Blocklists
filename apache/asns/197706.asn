@@ -1,0 +1,6 @@
+# nordvpn, purevpn (AS197706)
+Order Deny,Allow
+Deny from 2a04:27c0::/29
+Deny from 31.171.152.0/21
+Deny from 185.53.100.0/22
+Deny from 188.72.118.0/24

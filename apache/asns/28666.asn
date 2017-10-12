@@ -1,0 +1,26 @@
+# tunnelbear (AS28666)
+Order Deny,Allow
+Deny from 2804:3414::/32
+Deny from 186.224.118.0/24
+Deny from 186.224.119.0/24
+Deny from 186.224.120.0/23
+Deny from 186.224.122.0/23
+Deny from 189.1.160.0/20
+Deny from 189.1.160.0/21
+Deny from 189.1.160.0/22
+Deny from 189.1.164.0/22
+Deny from 189.1.164.0/24
+Deny from 189.1.166.0/24
+Deny from 189.1.168.0/21
+Deny from 189.1.168.0/22
+Deny from 189.1.168.0/23
+Deny from 189.1.168.0/24
+Deny from 189.1.169.0/24
+Deny from 189.1.170.0/23
+Deny from 189.1.170.0/24
+Deny from 189.1.171.0/24
+Deny from 189.1.172.0/23
+Deny from 189.1.172.0/24
+Deny from 189.1.173.0/24
+Deny from 189.1.174.0/24
+Deny from 189.1.175.0/24

@@ -1,0 +1,4 @@
+# mullvad (AS198156)
+Order Deny,Allow
+Deny from 2a01:6e80:fffe::/48
+Deny from 212.7.216.0/21

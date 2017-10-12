@@ -1,0 +1,16 @@
+# mullvad (AS39351)
+Order Deny,Allow
+Deny from 2a03:1b20:1::/48
+Deny from 2a03:1b20:2::/48
+Deny from 2a03:1b20:3::/48
+Deny from 2a03:1b20:4::/48
+Deny from 185.65.132.0/24
+Deny from 185.65.133.0/24
+Deny from 185.65.134.0/24
+Deny from 185.65.135.0/24
+Deny from 185.213.152.0/24
+Deny from 185.213.153.0/24
+Deny from 185.213.154.0/24
+Deny from 185.213.155.0/24
+Deny from 193.138.216.0/22
+Deny from 212.16.178.0/24

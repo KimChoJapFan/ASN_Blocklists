@@ -1,0 +1,7 @@
+# tunnelbear (AS203629)
+Order Deny,Allow
+Deny from 2a03:94e0::/32
+Deny from 2a06:a2c0::/29
+Deny from 185.90.60.0/24
+Deny from 185.125.168.0/22
+Deny from 185.181.60.0/22

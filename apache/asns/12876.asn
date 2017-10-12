@@ -1,0 +1,15 @@
+# tunnelbear (AS12876)
+Order Deny,Allow
+Deny from 2001:bc8::/32
+Deny from 51.15.0.0/16
+Deny from 51.15.0.0/17
+Deny from 62.4.0.0/19
+Deny from 62.210.0.0/16
+Deny from 151.115.0.0/16
+Deny from 163.172.0.0/16
+Deny from 163.172.208.0/20
+Deny from 195.154.0.0/16
+Deny from 212.47.224.0/19
+Deny from 212.83.128.0/19
+Deny from 212.83.160.0/19
+Deny from 212.129.0.0/18

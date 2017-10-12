@@ -1,0 +1,19 @@
+# nordvpn (AS36666)
+Order Deny,Allow
+Deny from 2a0a:9a01::/32
+Deny from 2a0a:9203::/32
+Deny from 2001:19c0::/32
+Deny from 41.77.112.0/21
+Deny from 67.43.224.0/20
+Deny from 67.215.0.0/20
+Deny from 68.168.112.0/20
+Deny from 72.10.160.0/20
+Deny from 72.10.160.0/24
+Deny from 72.10.161.0/24
+Deny from 72.10.164.0/22
+Deny from 72.10.168.0/22
+Deny from 74.120.220.0/22
+Deny from 154.16.138.0/24
+Deny from 173.209.32.0/19
+Deny from 185.94.30.0/24
+Deny from 185.169.229.0/24

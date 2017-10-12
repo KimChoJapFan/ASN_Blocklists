@@ -1,0 +1,27 @@
+# mullvad (AS11878)
+Order Deny,Allow
+Deny from 2607:8b00::/32
+Deny from 2607:2780::/48
+Deny from 2607:9000::/32
+Deny from 23.234.64.0/18
+Deny from 23.255.0.0/17
+Deny from 43.239.250.0/24
+Deny from 68.235.32.0/19
+Deny from 68.235.41.0/24
+Deny from 68.235.51.0/24
+Deny from 68.235.59.0/24
+Deny from 68.235.62.0/24
+Deny from 107.152.32.0/20
+Deny from 162.208.8.0/22
+Deny from 162.212.152.0/21
+Deny from 173.231.192.0/18
+Deny from 173.249.192.0/18
+Deny from 173.253.0.0/17
+Deny from 192.196.224.0/20
+Deny from 192.243.96.0/20
+Deny from 198.44.128.0/19
+Deny from 198.54.128.0/21
+Deny from 199.175.48.0/21
+Deny from 206.226.64.0/18
+Deny from 208.77.16.0/21
+Deny from 208.77.20.0/24

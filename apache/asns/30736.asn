@@ -1,0 +1,6 @@
+# mullvad (AS30736)
+Order Deny,Allow
+Deny from 2a00:9080:2000::/36
+Deny from 2a00:9080::/32
+Deny from 82.103.128.0/18
+Deny from 82.103.144.0/20

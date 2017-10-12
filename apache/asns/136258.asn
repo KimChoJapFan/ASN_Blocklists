@@ -1,0 +1,5 @@
+# tunnelbear (AS136258)
+Order Deny,Allow
+Deny from 103.75.118.0/24
+Deny from 185.90.61.0/24
+Deny from 185.186.79.0/24

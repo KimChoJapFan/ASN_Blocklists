@@ -1,0 +1,14 @@
+# nordvpn (AS30633)
+Order Deny,Allow
+Deny from 2604:9a00::/32
+Deny from 108.59.0.0/20
+Deny from 141.226.133.0/24
+Deny from 162.210.192.0/21
+Deny from 162.219.212.0/22
+Deny from 185.28.70.0/24
+Deny from 192.96.200.0/21
+Deny from 198.7.56.0/21
+Deny from 199.58.84.0/22
+Deny from 199.115.112.0/21
+Deny from 206.202.0.0/18
+Deny from 207.244.64.0/18

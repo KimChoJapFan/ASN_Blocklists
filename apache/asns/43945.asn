@@ -1,0 +1,4 @@
+# mullvad (AS43945)
+Order Deny,Allow
+Deny from 2a00:55a0:2::/48
+Deny from 213.184.122.0/24
